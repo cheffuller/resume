@@ -61,11 +61,10 @@ document.getElementById("eeemale").innerHTML = (
       "t" +
       "o" +
       ":" +
-      "p" +
-      "r" +
-      "i" +
       "c" +
+      "h" +
       "e" +
+      "f" +
       "f" +
       "u" +
       "l" +
@@ -84,11 +83,10 @@ document.getElementById("eeemale").innerHTML = (
       "m" +
       "'" +
       ">" +
-      "p" +
-      "r" +
-      "i" +
       "c" +
+      "h" +
       "e" +
+      "f" +
       "f" +
       "u" +
       "l" +
